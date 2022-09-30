@@ -2,14 +2,14 @@
 
 
 ## Title
-Simple contract creater with Solidity
+creater with Solidity
 
 # Token blockchain creator
 
 ## Usage
-- Compile this tokens with blockchain extension
-- Deploy this contracts
-- Use functions
+Compile  blockchain extension
+Deploy  contracts
+Functions
 
 ## Screenshots
  ![Снимок](https://user-images.githubusercontent.com/80056555/193273355-92af6bae-b110-4b9a-9b09-4abeb5ca13c2.PNG)
