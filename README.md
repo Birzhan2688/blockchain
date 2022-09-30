@@ -1,4 +1,4 @@
-## Blockchain assignment | Shevchenko Danil | CS-2009
+## Blockchain assignment | Tursyn Birzhan | CS-2009
 
 
 ## Title
