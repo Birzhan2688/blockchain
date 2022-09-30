@@ -12,6 +12,7 @@ Simple contract creater with Solidity
 - Use functions
 
 ## Screenshots
-![index](https://user-images.githubusercontent.com/74530896/193148127-4e00e404-ee1f-44e5-bbf2-7e12b1d8166a.png)
-![index](https://user-images.githubusercontent.com/74530896/193148519-41487e7f-5592-45cf-aa6e-a0829e5290ed.png)
+ ![Снимок](https://user-images.githubusercontent.com/80056555/193273355-92af6bae-b110-4b9a-9b09-4abeb5ca13c2.PNG)
+
+![Снимок1](https://user-images.githubusercontent.com/80056555/193273363-733c87ba-5f94-432e-a208-2d177e8c549d.PNG)
 
